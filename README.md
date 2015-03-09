@@ -29,7 +29,7 @@
 * iOS 的沙盒目录结构是怎样的？ App Bundle 里面都有什么？
 * iOS 的签名机制大概是怎样的？
 * iOS 7的多任务添加了哪两个新的 API? 各自的使用场景是什么？
-* Objective-C 的 `class` 是如何实现的？`Selector` 是如何被转化为 C 语言的函数的？
+* Objective-C 的 `class` 是如何实现的？`Selector` 是如何被转化为 C 语言的函数调用的？
 * `UIScrollView` 大概是如何实现的，它是如何捕捉、响应手势的？
 * Objective-C 如何对已有的方法，添加自己的功能代码以实现类似记录日志这样的功能？
 * `+load` 和 `+initialize` 的区别是什么？
