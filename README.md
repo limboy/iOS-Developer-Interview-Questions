@@ -38,6 +38,10 @@
 * 如何让 Category 支持属性？
 * `NSOperation` 相比于 GCD 有哪些优势？
 * `strong` / `weak` / `unsafe_unretained` 的区别？
+* 如何为Class定义一个对外只读对内可读写的属性?
+* How to avoid retain cycle when using Blocks?
+* Difference between Category and Class Extension? 
+* What is a meta-class in Objective-C?
 * `UIView` 和 `CALayer` 之间的关系？
 * 什么时候会发生「隐式动画」？
 * 如何处理异步的网络请求？
