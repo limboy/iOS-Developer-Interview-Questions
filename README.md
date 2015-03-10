@@ -41,7 +41,7 @@
 * 如何为 Class 定义一个对外只读对内可读写的属性?
 * Objective-C 中，meta-class 指的是什么？
 * `UIView` 和 `CALayer` 之间的关系？
-* +[UIView animateWithDuration:animations:completion:] 内部大概是如何实现的？
+* `+[UIView animateWithDuration:animations:completion:]` 内部大概是如何实现的？
 * 什么时候会发生「隐式动画」？
 * 如何处理异步的网络请求？
 * `frame` 和 `bounds` 的区别是什么？
