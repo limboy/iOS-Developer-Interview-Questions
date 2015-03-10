@@ -64,6 +64,7 @@
 * NSNotification 和 KVO 的使用场景？
 * 使用 Block 时需要注意哪些问题？
 * `performSelector:withObject:afterDelay:` 内部大概是怎么实现的，有什么注意事项么？
+* 如何播放 GIF 图片，有什么优化方案么？
 
 ## 综合类问题
 * 设计一个可以无限滚动并且支持自动滚动的 SlideShow。
