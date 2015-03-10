@@ -50,6 +50,7 @@
 * 什么是 Runloop？
 * Toll-Free Bridging 是什么？什么情况下会使用？
 * 当系统出现内存警告时会发生什么？
+* 什么是 `Protocol`，Delegate 一般是怎么用的？
 
 ## 经验类问题
 * 为什么 `UIScrollView` 的滚动会导致 `NSTimer` 失效？
