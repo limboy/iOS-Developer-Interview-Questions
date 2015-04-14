@@ -74,6 +74,9 @@
 * 设计一套大文件（如上百M的视频）下载方案。
 * 如果让你来实现 `dispatch_once`，你会怎么做？
 
+## 编程实现
+* 简述[「Snakes and Ladders」](http://en.wikipedia.org/wiki/Snakes_and_Ladders)的实现思路(这道题比较容易阐述清楚，且难度适中)
+
 ## 参考
 
 * http://way2ios.com/development/ios-development-2/iphone-interview-question-answers/
