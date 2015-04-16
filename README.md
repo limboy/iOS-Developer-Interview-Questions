@@ -67,6 +67,7 @@
 * `performSelector:withObject:afterDelay:` 内部大概是怎么实现的，有什么注意事项么？
 * 如何播放 GIF 图片，有什么优化方案么？
 * 使用 `NSUserDefaults` 时，如何处理布尔的默认值？(比如返回 NO，不知道是真的 NO 还是没有设置过)
+* 有哪几种方式可以对图片进行缩放，使用 CoreGraphics 缩放时有什么注意事项？
 
 ## 综合类问题
 * 设计一个可以无限滚动并且支持自动滚动的 SlideShow。
