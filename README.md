@@ -80,6 +80,7 @@
 * 设计一个进度条。
 * 设计一套大文件（如上百M的视频）下载方案。
 * 如果让你来实现 `dispatch_once`，你会怎么做？
+* 设计一个类似 iOS 主屏可以下拉出现 Spotlight 的系统。(对 UIScrollView 的理解程度)
 
 ## 编程实现
 * 简述[「Snakes and Ladders」](http://en.wikipedia.org/wiki/Snakes_and_Ladders)的实现思路(这道题比较容易阐述清楚，且难度适中)
