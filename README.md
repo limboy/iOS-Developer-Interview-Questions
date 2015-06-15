@@ -59,6 +59,7 @@
 * autorelease 对象在什么情况下会被释放？
 * UIWebView 有哪些性能问题？有没有可替代的方案。
 * 为什么 NotificationCenter 要 removeObserver? 如何实现自动 remove?
+* 当 `TableView` 的 `Cell` 改变时，如何让这些改变以动画的形式呈现？
 
 ## 经验类问题
 * 为什么 `UIScrollView` 的滚动会导致 `NSTimer` 失效？
