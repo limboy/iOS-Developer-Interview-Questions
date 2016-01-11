@@ -6,6 +6,10 @@
 
 如果有不错的问题，欢迎 Pull Request :)
 
+#参考答案
+
+[iOS面试一般性问题的参考答案](http://www.henishuo.com/ios-interview-common-question/)
+
 ## 一般性问题
 * 最近这两天你有学到什么知识/技能么？
 * 最近有做过比较酷或者比较有挑战的项目么？
