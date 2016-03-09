@@ -60,6 +60,7 @@
 * UIWebView 有哪些性能问题？有没有可替代的方案。
 * 为什么 NotificationCenter 要 removeObserver? 如何实现自动 remove?
 * 当 `TableView` 的 `Cell` 改变时，如何让这些改变以动画的形式呈现？
+* 什么是 `Method Swizzle`，什么情况下会使用？
 
 ## 经验类问题
 * 为什么 `UIScrollView` 的滚动会导致 `NSTimer` 失效？
@@ -92,3 +93,4 @@
 * http://way2ios.com/development/ios-development-2/iphone-interview-question-answers/
 * https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html
 * https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
+
