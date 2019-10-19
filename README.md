@@ -64,7 +64,7 @@
 
 ## 经验类问题
 * 为什么 `UIScrollView` 的滚动会导致 `NSTimer` 失效？
-* 为什么当 Core Animation 完成时，layer 又会恢复到原先的状态？
+* 为什么当 'Core Animation' 完成时，layer 又会恢复到原先的状态？
 * 你会如何存储用户的一些敏感信息，如登录的 token。
 * 有用过一些开源组件吧，能简单说几个么，大概说说它们的使用场景实现。
 * 什么时候会发生 `EXC BAD ACCESS` 异常？
@@ -74,8 +74,8 @@
 * `performSelector:withObject:afterDelay:` 内部大概是怎么实现的，有什么注意事项么？
 * 如何播放 GIF 图片，有什么优化方案么？
 * 使用 `NSUserDefaults` 时，如何处理布尔的默认值？(比如返回 NO，不知道是真的 NO 还是没有设置过)
-* 有哪几种方式可以对图片进行缩放，使用 CoreGraphics 缩放时有什么注意事项？
-* 哪些途径可以让 ViewController 瘦下来？
+* 有哪几种方式可以对图片进行缩放，使用 'CoreGraphics' 缩放时有什么注意事项？
+* 哪些途径可以让 'ViewController' 瘦下来？
 * 有哪些常见的 Crash 场景？
 
 ## 综合类问题
@@ -83,7 +83,7 @@
 * 设计一个进度条。
 * 设计一套大文件（如上百M的视频）下载方案。
 * 如果让你来实现 `dispatch_once`，你会怎么做？
-* 设计一个类似 iOS 主屏可以下拉出现 Spotlight 的系统。(对 UIScrollView 的理解程度)
+* 设计一个类似 iOS 主屏可以下拉出现 Spotlight 的系统。(对 'UIScrollView' 的理解程度)
 
 ## 编程实现
 * 简述[「Snakes and Ladders」](http://en.wikipedia.org/wiki/Snakes_and_Ladders)的实现思路(这道题比较容易阐述清楚，且难度适中)
